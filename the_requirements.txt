@@ -20,3 +20,5 @@ Delete: Remove an event (accessible only to admins or organizers).
 3. User Profiles:
 
 Get and update user information ( name, email, registration date).
+
+django_secret_key='django-insecure-2o8z%m*iqbytes4nq=17s!b-f6u83mz#)=&$69fw+hv2rshb)4'
