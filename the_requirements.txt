@@ -1,0 +1,22 @@
+
+1. User Authentication:
+
+Sign Up: Register users via Gmail.
+
+Login: Authenticate users using their Gmail credentials and start a session.
+
+2. Event Management:
+
+Create: Add a new event (event name, date, location ...).
+
+Retrieve a list of all events.
+
+Get details of a specific event by ID.
+
+Update: Edit event details (restricted to organizers).
+
+Delete: Remove an event (accessible only to admins or organizers).
+
+3. User Profiles:
+
+Get and update user information ( name, email, registration date).
